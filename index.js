@@ -42,6 +42,5 @@ if (lowercase==="hello!") {
 } else if (mixedCase==="Hi there!") {
   console.log("I love you, too.") }
   
-}
+say("I love you", "Grandma.")
  
-say("I love you","Grandma.")
