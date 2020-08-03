@@ -36,8 +36,10 @@ mixedCase.toUpperCase() === mixedCase // false
 console.log("hello!")
 return `${I can't hear you}!`
 console.log("HELLO!")
-return 
-
+return `${YES INDEED}!`
+console.log("I love you, Grandma".)
+return `${I love you, too"}.`
+}
   
 say("I love you", "Grandma.")
  
