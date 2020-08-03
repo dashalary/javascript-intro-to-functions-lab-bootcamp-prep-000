@@ -30,6 +30,6 @@ lowercase.toLowerCase() === lowercase // true
  
 var mixedCase = 'Hi there!'
  
-var ILoveYouGrandma = "I love you, too."
+var ILoveYouGrandma = "I love you, Grandma."
   
 }
