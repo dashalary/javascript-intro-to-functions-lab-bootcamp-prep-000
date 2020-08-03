@@ -20,7 +20,7 @@ function logWhisper(string) {
 
 function sayHiToGrandma(string) {
   return
-var 
+var uppercase = ""
  
 
 
