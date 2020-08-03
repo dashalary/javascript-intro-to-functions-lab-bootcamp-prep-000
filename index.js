@@ -1,3 +1,5 @@
+var lowercase, uppercase;
+
 function shout(string) {
   return
   string.toUpperCase()
