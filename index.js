@@ -33,7 +33,9 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
-
+if (lowercase==="hello!") {
+  console.log("I can't hear you!")
+} else if ()
  
 }
 say("I love you","Grandma.")
