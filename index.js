@@ -33,7 +33,7 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
-function sayHiToGrandma(string) {
+function sayHiToGrandma(string) 
 
 if (lowercase==="hello!") {
   console.log("I can't hear you!")
