@@ -37,7 +37,10 @@ if (lowercase==="hello!") {
   console.log("I can't hear you!")
 } else if (uppercase==="HELLO!") {
   console.log("YES INDEED!")
-} else if (mixedCase===)
+} else if (mixedCase==="Hi there!") {
+  console.log("I love you, too.") }
+  
+}
 }
  
 }
