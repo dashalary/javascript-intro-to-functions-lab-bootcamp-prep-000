@@ -33,7 +33,10 @@ mixedCase.toLowerCase() === mixedCase // false
  
 mixedCase.toUpperCase() === mixedCase // false
 
-
+console.log("hello!")
+return `${I can't hear you}!`
+console.log("HELLO!")
+return 
 
   
 say("I love you", "Grandma.")
