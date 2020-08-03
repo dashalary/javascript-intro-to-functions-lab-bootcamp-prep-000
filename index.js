@@ -19,7 +19,7 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  function say(mixedCase)
+  
   console.log("I can't hear you!")
 return `${I love you}, ${Grandma}!`
 console.log('YES INDEED!')
