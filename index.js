@@ -19,15 +19,15 @@ function logWhisper(string) {
 }
 
 
- var uppercase = "YES INDEED!"
+ var uppercase = "HELLO!"
  
 uppercase.toUpperCase() === uppercase // true
  
-var lowercase = "I can\'t hear you!"
+var lowercase = "hello!"
  
 lowercase.toLowerCase() === lowercase // true
  
-var mixedCase = "I love you, Grandma."
+var mixedCase = ""
  
 mixedCase.toLowerCase() === mixedCase // false
  
